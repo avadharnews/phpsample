@@ -1,0 +1,8 @@
+@media screen and (max-width: 1280px) {
+    .scrollbar{
+        height: 650px;
+    }
+    .scrollbar2{
+        height: 650px;
+    }
+}
